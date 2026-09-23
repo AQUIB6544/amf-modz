@@ -7,9 +7,9 @@
   <a href="https://amf-modz.netlify.app/">
     <img src="https://img.shields.io/badge/LIVE_DEMO-BROWSE_MODS-C49C36?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo">
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/COMMUNITY-JOIN_DISCORD-1a1a1a?style=for-the-badge&logo=discord&logoColor=C49C36" alt="Discord">
-  </a>
+  </a> -->
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 ## 📸 Platform Interface
 <div align="center">
   <!-- DHYAN DEIN: Is image ko dekhne ke liye apne GitHub repo me "1001023911.jpg" file ko upload zarur karein -->
-  <img src="1001023911.jpg" alt="AMF Modz Interface" width="700">
+  <img src="AMF.png" alt="AMF Modz Interface" width="700">
 </div>
 
 <hr/>
@@ -66,5 +66,5 @@ Developed with passion by **Mohd Aquib**, a Data Science student and Web Develop
 * 💼 **Live Site:** [AMF Modz](https://amf-modz.netlify.app/)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C49C36&height=120&section=footer"/>
 </div>
